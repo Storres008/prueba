@@ -1,0 +1,56 @@
+h1 {
+  font-size: 40px; 
+  font-family:"Krona One", sans-serif;
+    line-height: 2;
+    background-color: #ffad33;
+    padding-bottom: 0px;
+    padding-top:  5px;
+    padding-left: 15px;
+    margin-bottom: 0px;
+    margin-top: inherit;
+    margin-right: inherit;
+    border: #ff9900;
+    text-shadow: 5px 5px 1px #ff9900;
+}
+h2 {
+    font-size:20px;
+    font-family: 'Krona One', sans-serif;
+    background-color: #FFCE61;
+    width: 2000xp;
+    border: color: #ffbe33;
+    padding-top: 15px; 
+    padding-bottom: 15px;
+    padding-left: 17px;
+    margin-top: inherit;
+    text-shadow: 3px 3px 1px #ffbe33;
+}
+    
+h3 { 
+    font-family: 'Krona One', sans-serif; 
+    margin-left: 10px;
+}
+
+button {background-color: floralwhite; margin-right:inherit;margin-left: 1199PX;
+font-family: "Krona One", sans-serif; margin-top:inherit; font-size: 10PX;
+outline-color: color: #ffad33;}
+
+p { width: 700px;
+  font-size: 15px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+    margin-left: 19px;
+
+}
+img { width: 300px; margin-left: 19px; 
+    display: block;
+    margin-left: 10px;
+}
+ul { line-height: 1.5;
+}
+
+
+
+body {width: 1349.9px;
+margin: inherit;
+    background-color: #FFFACD ;
+}
